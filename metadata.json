@@ -1,0 +1,9 @@
+{
+  "name": "ادارة العلاج الحر بالجيزة",
+  "description": "A professional bilingual inspection tool for Egyptian medical facilities ensuring compliance with Law 51/1981 amended by Law 153/2004. Features role-based access, live geolocation, and AI-powered reporting.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
